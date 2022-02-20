@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+    <head>
+        <meta charset='UTF-8'>
+        <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+        <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+        <title>Stock Transaction</title>
+
+        <link rel='stylesheet' href='{{ url_for('static', filename='css/index.css') }}'>
+        <script type='text/javascript' src='{{ url_for('static', filename='js/index.js') }}'></script>
+    </head>
+
+
+    <body onload='ask()'>
+
+        <form method='POST' action='{{ url_for('response') }}' enctype= 'multipart/form-data'>  
+            <h1 id='heading'>NASDAQ Stock Exchange Scraper</h1>
+
+            <div class='spacing'>
+
+                <secton id='first'>
+
+                    <h3>Select an action:</h3>
+                    <div class='append'>
+                        <input type='radio' id='code' name='action' value='Code' checked onchange='option()'>
+                        <label for='code'>Access Code</label>
+
+                        <input style='width: 50px; ' type='radio' id='transactionData' name='action' value='Transaction data' onchange='option()'>
+                        <label for='transcationData'>Access Stock Transaction Data</label>
+                    </div>
+                </secton>
+
+
+                <secton class='second' style='margin-top: 50px;'>
+                    <h3>Select Code File: </h3>
+                    <div class='append'>
+                        <input type='radio' id='ownFile' name='dataLocation' value='upload' checked onchange='option()'>
+                            <label for='myFile'>Upload: </label>
+                            <input type='file' id='file' name='file' style'margin-left: 20px'>
+
+                        <input type='radio' id='download' name='dataLocation' value='web' onchange='option()'>
+                        <label for='dewey'>Get from web</label>
+                    </div>
+                </secton>
+
+
+                <section class='second'>
+                    <div class='append'>
+                        <label for='stockStartDate'>Start Date: </label>
+                        <input id='stockStartDate' name='stockStartDate' type='date'></input>
+
+                        <label for='stockEndDate' style='margin: 20px'>End Date: </label>
+                        <input id='stockEndDate' name='stockEndDate' type='date' style='margin: 0px'></input>
+                    </div>
+                </section>
+
+
+                <secton id='stockCategory'>
+                    <label for='stockCat'> Which category do you want to retrieve: </label>
+                    <select id='stockCatResult' class='space' name='stockCatResult'>
+                        {% for stockCat in stockCats %}
+                            {% if stockCat == stockCats[0] %}
+                                <option value='{{ stockCat }}' selected>{{ stockCat }}</option>
+                            {% else %}
+                                <option value='{{ stockCat }}'>{{ stockCat }}</option>
+                            {% endif %}
+                        {% endfor %}
+                    </select>
+                </secton>
+
+            </div>
+
+            <p id='status' class='center'></p>
+
+            <section id='btn' >
+                <!-- Using return function() to stop submitting if false -->
+                <input id='submitBtn' type='submit' name='result' value='Submit' onclick='return checkValidation()'>
+            </section>
+            
+        </form>
+
+    </body>
+
+</html>
