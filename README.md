@@ -1,6 +1,11 @@
 # Investment-Analysis-Program (Still on progress)
 
-Preview: 
+Phase 2 Preview 
+![Land Page](https://user-images.githubusercontent.com/79691025/158430883-cb763676-940a-4969-a4e1-6333a97180a5.png)
+
+
+
+Phase 1 Preview: 
 
 1. Landing Page:  
     ![LandingPage Phase 1](https://user-images.githubusercontent.com/79691025/158215476-623f74b4-7130-4477-8f04-3a83cf4a35f0.png)
