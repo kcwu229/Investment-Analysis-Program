@@ -1,9 +1,12 @@
 # Investment-Analysis-Program (Still on progress)
 
+Phase 3 Final Selection: Landing Page 
+![Trial 2 (Final Pick, with unified color scheme and font style)](https://user-images.githubusercontent.com/79691025/158641902-bd1c0fa8-c8bf-4de7-ae1b-b65dabe8d9f6.png)
+
+----------------------------
+
 Phase 2 Preview 
 ![Land Page](https://user-images.githubusercontent.com/79691025/158430883-cb763676-940a-4969-a4e1-6333a97180a5.png)
-
-
 
 Phase 1 Preview: 
 
