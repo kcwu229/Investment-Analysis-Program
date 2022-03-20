@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="This is a website for user to extract the US stock information and transaction data, and analysis.">
+    <meta name="keywords" content="HTML, CSS, JavaScript">
+    <meta name="author" content="Sam Wu">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet"> 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Anton&family=Raleway:wght@300&display=swap" rel="stylesheet"> 
+    <link rel="stylesheet" href="css/login.css">
+    <script type="text/javascript" src="js/login.js"></script>
+
+    
+    
+
+    <title>BetaStock - Login</title>
+</head>
+<body>
+        <div id="bg"></div>
+        <section id="loginPage">
+            <div id="loginBG"></div>
+            <div id="loginField">
+                <h1 id="logo" class="logo-color heading absolute" style="margin-top: 150px;margin-left:50px;">BetaStock</h1> 
+                <p id="logo" class="absolute paragraph" style="margin-top: 225px;margin-left:50px;">The best investment app ever</p> 
+                <input id="username" name="username" placeholder="username" type="text" class="absolute paragraph" style="margin-top: 320px;margin-left:-187px;height:32px;" /> 
+                <input id="password" placeholder="password" name="password" type="password" class="absolute paragraph" style="margin-top: 405px;margin-left:-187px;height:32px;" />
+                <a href="#" class="absolute paragraph" style="font-size:15px;margin-top: 455px;margin-left:-8px;">Forget Password ?</a>
+            <form method="POST" action="keyScreen.html" onsubmit="checkLogin();return false;">
+                <button id="submitBtn" type="submit" class="absolute" style="margin-top: 540px;margin-left:-132px;">LOGIN</button>
+            </div>
+            <a href="signUp.html" class="absolute paragraph" style="font-size:16px;margin-top: 620px;margin-left: 150px;">Create an account</a>
+        </section>
+    </form>
+</body>
+</html>

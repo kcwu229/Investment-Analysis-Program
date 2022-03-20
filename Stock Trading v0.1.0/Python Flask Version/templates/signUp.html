@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="This is a website for user to extract the US stock information and transaction data, and analysis.">
+        <meta name="keywords" content="HTML, CSS, JavaScript">
+        <meta name="author" content="Sam Wu">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet"> 
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Anton&family=Raleway:wght@300&display=swap" rel="stylesheet"> 
+        <link rel="stylesheet" href=" {{ url_for('static', filename='signUp.css') }}">
+        <title>BetaStock - signUp Page</title>
+    </head>
+    <body>
+        <form action="keyScreen.html" method="POST">
+            <section id="container">
+                <div id="bg">
+                    <h1 id="logo" class="heading">BetaStock</h1>
+                </div>
+                <div id="content">
+                    <h1 id="signUp" class="heading">Sign Up</h1>
+                    <p class="paragraph" style="margin-top: -30px;width:350px;">Don’t have an account? Create your account, it takes less than a minute</p><br />
+                    <label for="username" class="paragraph">username</label><br />
+                    <input class="paragraph" type="text" id="username" name="username" /><br /><br /><br />
+                    <label for="password" class="paragraph">password</label><br />
+                    <input class="paragraph" type="text" id="password" name="password" /><br /><br /><br />
+                    <label for="displayName" class="paragraph">display name</label><br />
+                    <input class="paragraph" type="text" id="displayName" name="displayName" /><br /><br /><br />
+                    <label for="email" class="paragraph">email</label><br />
+                    <input class="paragraph" type="email" id="email" name="email" /><br /><br /><br />
+                    <input class="paragraph" type="submit" id="submitBtn" name="submitBtn" value="SING UP" />
+                </div>
+            </section>
+        </form>
+    </body>
+</html>
