@@ -16,12 +16,13 @@ If you are new comer, it is our pleasure to invite you to join us !
 
 If you want to know our updates info. just subscribe by filling your email !!!! 
 ![圖片](https://user-images.githubusercontent.com/79691025/159283155-a61aa666-191c-4f8d-a45c-9f5589942242.png)
-
 ![圖片](https://user-images.githubusercontent.com/79691025/159283448-1fcb775a-57fb-4792-952b-eda990cdc411.png)
 
 We will signify you also after your first account registration.
 ![圖片](https://user-images.githubusercontent.com/79691025/159283602-94a79ece-925f-4f5a-b67b-3cdb51feab17.png)
 
+Here comes to our function page !!!!
+
 
 Let's start your journey in BetaStock here !! See You.
-
+![function page](https://user-images.githubusercontent.com/79691025/159532827-9ea1be7d-c4bd-4963-a182-35626cd1cb04.PNG)
