@@ -1,5 +1,7 @@
 # BetaStock -- The investment-analysis program (still on progress)
 
+related URL: https://drive.google.com/drive/folders/1gZRCFscDxXzlkHKE_Fg7pQP8nuz-SSHP?usp=sharing
+
 Are you looking for an wise and conveninet searching engine for US stock investment? If yes, then you might be interested with my programme.
 
 BetaStock, the webpage that is for user to obtain the most updated US stock code, and transaction infomation, gathering all fruitful stocks as your wish list for successful investment. You just click few buttons and we will do the rest for you.
