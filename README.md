@@ -18,13 +18,20 @@ If you are new comer, it is our pleasure to invite you to join us !
 
 If you want to know our updates info. just subscribe by filling your email !!!! 
 ![圖片](https://user-images.githubusercontent.com/79691025/159283155-a61aa666-191c-4f8d-a45c-9f5589942242.png)
-![圖片](https://user-images.githubusercontent.com/79691025/159283448-1fcb775a-57fb-4792-952b-eda990cdc411.png)
 
 We will signify you also after your first account registration.
+![圖片](https://user-images.githubusercontent.com/79691025/159283448-1fcb775a-57fb-4792-952b-eda990cdc411.png)
+
+
 ![圖片](https://user-images.githubusercontent.com/79691025/159283602-94a79ece-925f-4f5a-b67b-3cdb51feab17.png)
 
 Here comes to our function page !!!!
+![擷取](https://user-images.githubusercontent.com/79691025/160289222-c26ab7f1-ad8d-4cbe-8a05-a115ab67996b.PNG)
 
+getting the most updated stock code here
+![圖片](https://user-images.githubusercontent.com/79691025/160289236-0c61c4fd-59fb-4a4d-9f9f-ccb38539a052.png)
+
+And, to access the transcation data for your code list.
+![圖片](https://user-images.githubusercontent.com/79691025/160289258-48b48ab9-e6a1-4549-993b-4c0a56cca583.png)
 
 Let's start your journey in BetaStock here !! See You.
-![function page](https://user-images.githubusercontent.com/79691025/159532827-9ea1be7d-c4bd-4963-a182-35626cd1cb04.PNG)
