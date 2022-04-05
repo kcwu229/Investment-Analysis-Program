@@ -26,8 +26,7 @@ We will signify you also after your first account registration.
 ![圖片](https://user-images.githubusercontent.com/79691025/159283602-94a79ece-925f-4f5a-b67b-3cdb51feab17.png)
 
 Here comes to our function page !!!!
-![擷取](https://user-images.githubusercontent.com/79691025/161429721-fb8a8d91-3d0d-4f80-8034-b731e18db3d0.PNG)
-
+![圖片](https://user-images.githubusercontent.com/79691025/161786333-c04dea5c-585f-4ba0-a3ca-31883ed75c53.png)
 
 getting the most updated stock code here
 
