@@ -27,8 +27,6 @@ We will signify you also after your first account registration.
 Here comes to our function page !!!!
 ![1](https://user-images.githubusercontent.com/79691025/164969333-4b4b1b38-f163-4f1a-9a8c-f33f615e726f.PNG)
 
-getting the most updated stock code here
-
-And, to access the transcation data for your code list.
+getting the most updated stock code here, access the transcation data for your code list.
 
 Let's start your journey in BetaStock here !! See You.
