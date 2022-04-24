@@ -11,7 +11,8 @@ We provide two color scheme to you
 ![圖片](https://user-images.githubusercontent.com/79691025/159281014-073d1e45-d226-499c-b45c-9ce99a6cab44.png)
 
 You can enjoy our service by just login the webpage.
-![圖片](https://user-images.githubusercontent.com/79691025/159281072-17893d9f-9cc5-47b1-bdfe-3bdcd7af7378.png)
+![1](https://user-images.githubusercontent.com/79691025/164969365-fcb8ea5e-53f0-47ff-b4a5-ba9b69bd98a0.PNG)
+
 
 If you are new comer, it is our pleasure to invite you to join us !
 ![圖片](https://user-images.githubusercontent.com/79691025/159281757-08f1f7e7-ce4e-472f-8594-df4f53203e20.png)
@@ -26,7 +27,8 @@ We will signify you also after your first account registration.
 ![圖片](https://user-images.githubusercontent.com/79691025/159283602-94a79ece-925f-4f5a-b67b-3cdb51feab17.png)
 
 Here comes to our function page !!!!
-![圖片](https://user-images.githubusercontent.com/79691025/161786333-c04dea5c-585f-4ba0-a3ca-31883ed75c53.png)
+![1](https://user-images.githubusercontent.com/79691025/164969333-4b4b1b38-f163-4f1a-9a8c-f33f615e726f.PNG)
+
 
 getting the most updated stock code here
 
