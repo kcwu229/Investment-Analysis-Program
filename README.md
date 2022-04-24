@@ -1,6 +1,6 @@
 # BetaStock -- The investment-analysis program (still on progress)
 
-related URL: https://drive.google.com/drive/folders/1qQno27LJ5GeqB7HFiGRccCDRvQjRqLc1?usp=sharing
+File URL: https://drive.google.com/drive/folders/1qQno27LJ5GeqB7HFiGRccCDRvQjRqLc1?usp=sharing
 
 Are you looking for an wise and conveninet searching engine for US stock investment? If yes, then you might be interested with my programme.
 
